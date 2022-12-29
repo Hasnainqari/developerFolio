@@ -178,7 +178,7 @@ const workExperiences = {
       company: "",
       companylogo: require("./assets/images/smit.c4bbd74c.webp"),
       date: "Febuarary 2022 – Present",
-      desc: "8 Months Participate Internship Program In SMIT .",
+      desc: "10 Months Participate Internship Program In SMIT .",
       // descBullets: [
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
